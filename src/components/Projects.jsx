@@ -41,31 +41,30 @@ export const Projects = () => {
     {
       title: "Notary App",
       description:
-        "JavaScript | React.js | Node.js | Express.js | MongoDB | Full-Stack Development",
+        "JavaScript | DOM Manipulation | Data Analysis | Text Processing | UI Design",
       imgUrl: notary,
       fullDescription:
-        "The Notary App is designed for scheduling and client management, specifically for notary services. Built with React.js for the front end and Node.js with Express and MongoDB for the backend, it allows users to set appointments, manage client data, and streamline scheduling. React hooks were implemented to manage state and streamline appointment updates in real time. MongoDB provides the flexibility needed for managing dynamic appointment data, ensuring reliability and ease of data retrieval. This project underscores my capabilities in full-stack development, database management, and intuitive user interface design for service-based applications.",
+        "The Notary App is a JavaScript-based text analysis tool designed to read, display, and analyze digital book files. Users can load text files, view their contents, and gather statistics, such as character count, word count, and the most and least frequently used words. The app utilizes DOM manipulation for dynamic content updates and provides a responsive interface for document navigation. A search functionality allows users to find specific keywords within the text, with highlighted occurrences and scrollable navigation to each match. This project highlights my proficiency in JavaScript for UI interactions, data processing, and building intuitive tools for text analysis.",
     },
     {
       title: "Credit Apps",
-      description:
-        "JavaScript | React.js | Node.js | Express.js | MySQL | UI/UX Design",
+      description: "JavaScript | Django | Python | MySQL | UI/UX Design",
       imgUrl: creditApps,
       fullDescription:
-        "Credit Apps is a financial management platform developed for handling application submissions and user data. This full-stack application leverages React.js for the front end, while Node.js, Express, and MySQL are used to securely store and manage application data. I focused on creating a streamlined form submission and validation process, ensuring an intuitive experience for users. React hooks enable real-time data updates and error handling, enhancing usability and interactivity. This project showcases my proficiency in handling complex form workflows, data validation, and UI/UX design for financial applications.",
+        "Credit Apps is a financial management platform designed to handle application submissions and user data for a seamless credit application process. The application uses Django templates and JavaScript on the front end, while Django with Python handles back-end processes and MySQL ensures secure data storage and retrieval. I built the entire front-end interface, creating a user-friendly form submission and validation process that guides users smoothly through application requirements. On the back end, I contributed to data handling and logic design, ensuring a robust and secure foundation. This project demonstrates my strengths in full-stack development, user-centric UI/UX design, and data management for high-stakes financial applications.",
     },
     {
       title: "Diamond Tool Store",
       description:
-        "JavaScript | Vue.js | HTML | CSS | Responsive Web Design | API Integration | E-commerce",
+        "JavaScript | Shopify | Liquid | HTML | CSS | Responsive Web Design | API Integration | E-commerce",
       imgUrl: dts,
       fullDescription:
-        "Diamond Tool Store is an e-commerce platform designed for a seamless online shopping experience, featuring product listings, a shopping cart, and checkout processes. Developed with Vue.js, this project includes API integration for real-time inventory updates, creating an efficient and user-friendly purchasing experience. The responsive design adapts across devices, providing consistent accessibility and usability for customers. I designed the UI to be clean and intuitive, guiding users through the product discovery and checkout phases. This project highlights my skills in e-commerce web development, responsive design, and API-driven applications.",
+        "Diamond Tool Store is an e-commerce platform built on Shopify, tailored to deliver a smooth and efficient shopping experience. I optimized the front-end using Liquid, HTML, and CSS to enhance loading times, responsiveness, and overall site performance. Through API integration, I enabled real-time inventory updates, ensuring accurate product availability for users. I focused on crafting a clean, intuitive design that guides customers through product discovery and checkout, adaptable across devices. This project highlights my skills in Shopify customization, front-end optimization, and responsive design in e-commerce.",
     },
     {
       title: "Investacard",
       description:
-        "JavaScript | React.js | Node.js | Express.js | MySQL | E-commerce",
+        "JavaScript | React.js | Node.js | Express.js | MySQL | E-commerce | WordPress | UI/UX Design",
       imgUrl: investacard,
       fullDescription:
         "Investacard is an e-commerce application focused on collectible cards, featuring inventory management, order processing, and payment integration. The front end was built with React.js, while Node.js, Express, and MySQL form the backbone of the server side, allowing efficient data handling and user management. I implemented React hooks to manage inventory updates and enhance the shopping experience. The checkout process is optimized for speed and security, making it easy for users to browse and purchase items. This project demonstrates my expertise in building scalable e-commerce platforms that support business objectives and enhance the customer journey.",
